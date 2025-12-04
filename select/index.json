@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "DONBURA KONBURA SPEAKERS",
+  "base_artist": "Ranunculus",
+  "createdAt": "2025-12-04T10:58:10.172559Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DONBURA KONBURA SPEAKERS",
+      "artist": "Ranunculus",
+      "has_synced": false,
+      "path": "select/pl_01_DONBURA_KONBURA_SPEAKERS_Ranunculus.txt"
+    }
+  ]
+}
